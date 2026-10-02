@@ -1,4 +1,4 @@
-# Titanic Data Acquisition, Cleaning and Exploratory Data Analysis
+# Week 1 Task: Data Acquisition, Cleaning, and Exploratory Data Analysis
 
 ## About the Project
 
