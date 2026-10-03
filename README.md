@@ -22,6 +22,15 @@ This repository contains the projects and assignments completed during my Virtua
 - Trend and pattern analysis
 - Key insights and findings
 
+### Week 3 - Statistical Analysis and Hypothesis Testing
+- Dataset: Retail Sales
+- Statistical analysis using Python
+- Formulation of null and alternative hypotheses
+- Welch's Two-Sample t-Test
+- Analysis of p-values and confidence intervals
+- Comparison of discounted and non-discounted orders
+- Interpretation of statistical results
+
 ## Technologies
 - Python
 - Pandas
@@ -38,4 +47,6 @@ YuvaIntern-Virtual-Data-Science-with-Python/
 │
 ├── Week_1_Titanic_Data_Analysis/
 ├── Week_2_Netflix_Data_Visualization/
+├── Week_3_Statistical_Hypothesis_Testing/
 └── README.md
+
