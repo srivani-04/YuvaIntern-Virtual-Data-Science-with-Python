@@ -31,7 +31,7 @@ The significance level was set to 0.05.
 
 ## Key Findings
 - Orders were divided into discounted and non-discounted groups.
-- The analysis included 4,143 orders.
+- The analysis included 4,143 total orders, 4,098 Discounted orders, 45 Non-discounted orders.
 - The Welch's t-test produced a p-value of 0.255.
 - Since the p-value exceeded 0.05, the null hypothesis was not rejected.
 - The analysis did not find statistically significant evidence of a difference in average sales amounts between the two groups.
