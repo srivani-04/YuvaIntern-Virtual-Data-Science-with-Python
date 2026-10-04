@@ -31,6 +31,25 @@ This repository contains the projects and assignments completed during my Virtua
 - Comparison of discounted and non-discounted orders
 - Interpretation of statistical results
 
+### Week 4 - Machine Learning Model Development and Evaluation
+
+- Dataset: Breast Cancer Wisconsin Diagnostic Dataset
+- Project: Breast Cancer Classification Using Logistic Regression
+- Data preprocessing and feature scaling
+- Model development using Logistic Regression
+- Model training and testing (80:20 split)
+- Model evaluation using accuracy, precision, recall, F1-score, and ROC-AUC
+- Confusion matrix and ROC curve visualization
+- Analysis of model performance and limitations
+
+#### Week 4 Model Results
+
+- Accuracy: 98.25%
+- Precision: 98.61%
+- Recall: 98.61%
+- F1-Score: 98.61%
+- ROC-AUC: 99.54%
+
 ## Technologies
 - Python
 - Pandas
@@ -38,7 +57,10 @@ This repository contains the projects and assignments completed during my Virtua
 - Matplotlib
 - Seaborn
 - Plotly
+- SciPy
+- Scikit-learn
 - Google Colab
+
 
 ## Repository Structure
 
@@ -48,5 +70,6 @@ YuvaIntern-Virtual-Data-Science-with-Python/
 ├── Week_1_Titanic_Data_Analysis/
 ├── Week_2_Netflix_Data_Visualization/
 ├── Week_3_Statistical_Hypothesis_Testing/
+├── Week-4-Machine-Learning-Model-Evaluation/
 └── README.md
 
