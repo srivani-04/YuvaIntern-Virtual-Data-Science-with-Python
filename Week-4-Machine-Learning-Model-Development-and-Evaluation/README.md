@@ -50,10 +50,10 @@ These results correspond to the recorded experiment using an
 ## Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 ## How to Run
 
