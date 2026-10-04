@@ -72,8 +72,9 @@ python week4_ml_model.py
 ## Project Files
 - `week4_ml_model.py` — Python implementation.
 - `Week_4_ML_Model_Evaluation_Report.docx` — Detailed project report.
-- `confusion_matrix.png` — Confusion matrix visualization.
-- `roc_curve.png` — ROC curve visualization.
+- `Week_4_ML_Model_Evaluation.ipynb` — Jupyter Notebook containing the code, outputs, and visualizations.
+- `images/confusion_matrix.png` — Confusion matrix visualization.
+- `images/roc_curve.png` — ROC curve visualization.
 
 ## Limitations
 - Only Logistic Regression was evaluated.
